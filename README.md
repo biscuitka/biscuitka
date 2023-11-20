@@ -1,11 +1,9 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif"  width="300"/>
 
 ### Hello, everybody! 🤗
-  My name is Viktoria and I'm beginner Java-developer. 
+My name is Viktoria and I'm beginner Java-developer. 
 
-- 🤓 I’m currently learning english, german and algorithms on java.
+- 🤓 I’m currently learning English, German and algorithms on java.
 - 🤸‍♀️ I'm writing my own little app for a gym.
 - 👻 My pet is a crow :)
 
