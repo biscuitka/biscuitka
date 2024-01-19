@@ -5,6 +5,7 @@ My name is Viktoria and I'm beginner Java-developer.
 
 - 🤓 I’m currently learning English, German and algorithms on java.
 - 🤸‍♀️ I'm writing my own little app for a gym.
+- 📜 My <a href="https://disk.yandex.ru/d/P8XtRpURRZO37g">resume</a>.</li> 
 - 👻 My pet is a crow :)
 
 ___
