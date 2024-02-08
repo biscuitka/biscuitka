@@ -3,8 +3,7 @@
 ### Hello, everybody! 🤗
 My name is Viktoria and I'm beginner Java-developer. 
 
-- 🤓 I’m currently learning English, German and algorithms on java.
-- 🤸‍♀️ I'm writing my own little app for a gym.
+- 🤓 I’m currently learning English, German and reading "Thinking in Java".
 - 📜 My <a href="https://disk.yandex.ru/d/P8XtRpURRZO37g">resume</a>.</li> 
 - 👻 My pet is a crow :)
 
@@ -56,6 +55,9 @@ __You can find me on:__
 </a>
 <a href="https://wa.me/79312182948">
   <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsUp Badge"/>
+</a>
+<a href="https://wa.me/79312182948">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
 
