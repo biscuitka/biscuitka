@@ -56,7 +56,7 @@ __You can find me on:__
 <a href="https://wa.me/79312182948">
   <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsUp Badge"/>
 </a>
-<a href="https://wa.me/79312182948">
+<a href="https://www.linkedin.com/in/rothmannviktoria/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
